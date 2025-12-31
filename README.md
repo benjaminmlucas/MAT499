@@ -1,0 +1,3 @@
+Welcome. Here you will find all of the course materials for NAU's MAT499/599 Introduction to Deep Learning! It is all free for as long as I have access to my GitHub... which is hopefully forever.
+
+There is a course documents directory... this is your starting point for anything administrative. The syllabi, policies and course outlines are in there. Beyond that, the course is broken into 4 modules: An intro to NNs, model optimization, CNNs, and RNNs. Each module has its own directory and materials. I aim to include more material than you could ever need for this course in hope that it will benefit all of your future machine learning endeavors.
